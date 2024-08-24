@@ -1,0 +1,53 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Log files
+*.log
+
+# npm packages
+node_modules/
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+.project.nuget.props
+
+# .NET Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Database files
+*.mdf
+*.ldf
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Other
+*.DS_Store
+*.idea/
+*.env

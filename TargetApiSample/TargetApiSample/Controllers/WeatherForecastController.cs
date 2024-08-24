@@ -6,6 +6,7 @@ namespace TargetApiSample.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
    
     public class WeatherForecastController : ControllerBase
     {

@@ -29,7 +29,7 @@ namespace GatewayApiSample.Controllers
                 expires: DateTime.Now.AddMinutes(30),
                 signingCredentials: credentials);
 
-            return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
+            return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) }); 
         }
     }
 }

@@ -324,11 +324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
+      "projectUniqueName": "D:\\Pro\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
       "projectName": "TargetApiSample",
-      "projectPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
+      "projectPath": "D:\\Pro\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
       "packagesPath": "C:\\Users\\msneg\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\obj\\",
+      "outputPath": "D:\\Pro\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msneg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,6 @@
+In today’s quick video, I’m gonna explain how to create a read-only DbContext in EF Core, perfect for scenarios where you only need to fetch data without modifying it—like reporting, dashboards, or simply improving performance by avoiding unnecessary tracking.
+So, let’s dive in! In EF Core, a DbContext is designed to track changes to your entities, but if you're only reading data, tracking is just overhead. To create a read-only DbContext, you can disable change tracking by setting ChangeTracker. This tells EF Core to skip tracking  changes, which makes your queries faster and uses less memory.
+Here’s how you do it: set this in your DI setup by configuring your services like this:
+This simple tweak ensures that all queries are no-tracking by default, making your DbContext truly read-only!
+And that’s it! By setting up a read-only DbContext, you can optimize your application’s performance for read-heavy scenarios with minimal effort. And also You do not need to use Dapper to gain better performance with database queries.
+If you found this tip useful, don’t forget to like and subscribe. Thanks for watching, and see you in the next one!

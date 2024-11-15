@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\ocelotapigateway\\project\\ocelotapigatewaydemo\\targetapisample2\\targetapisample2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|solutionrelative:targetapisample2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\ocelotapigateway\\project\\ocelotapigatewaydemo\\targetapisample2\\targetapisample2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|solutionrelative:targetapisample2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|d:\\documents_downloads_desktop\\youtubeprojects\\ocelotapigateway\\project\\ocelotapigatewaydemo\\targetapisample2\\targetapisample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB2F73F-B6E6-4BE9-AB06-69E6A98A5D17}|TargetApiSample2\\TargetApiSample2.csproj|solutionrelative:targetapisample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TargetApiSample2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TargetApiSample2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T09:30:26.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TargetApiSample2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TargetApiSample2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:30:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Program.cs",
+              "RelativeDocumentMoniker": "TargetApiSample2\\Program.cs",
+              "ToolTip": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample2\\TargetApiSample2\\Program.cs",
+              "RelativeToolTip": "TargetApiSample2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:29:46.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

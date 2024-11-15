@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yn8aB3mLp9UU//8eDFYMPFqs89mu57W5TqOKsunNLyULFSLsNPsqqNh8RnKp+02GUrNUYB69Zp3UlieNYkXZfg==",
+  "dgSpecHash": "gR+cgFWYNrg=",
   "success": true,
-  "projectFilePath": "D:\\Pro\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
+  "projectFilePath": "D:\\Documents_Downloads_Desktop\\YoutubeProjects\\OcelotApiGateway\\Project\\OcelotApiGatewayDemo\\TargetApiSample\\TargetApiSample\\TargetApiSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msneg\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
     "C:\\Users\\msneg\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
@@ -11,7 +11,12 @@
     "C:\\Users\\msneg\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
     "C:\\Users\\msneg\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
     "C:\\Users\\msneg\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
-    "C:\\Users\\msneg\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+    "C:\\Users\\msneg\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-preview.7.24407.12\\microsoft.net.sdk.compilers.toolset.9.0.100-preview.7.24407.12.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.7\\microsoft.windowsdesktop.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.7\\microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.7\\microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.7\\microsoft.netcore.app.host.win-x64.8.0.7.nupkg.sha512"
   ],
   "logs": []
 }

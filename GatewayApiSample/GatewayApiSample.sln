@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TargetApiSample", "..\TargetApiSample\TargetApiSample\TargetApiSample.csproj", "{50877C30-60E0-43EC-AC37-CD405D4284CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TargetApiSample2", "..\TargetApiSample2\TargetApiSample2\TargetApiSample2.csproj", "{04FC3490-C810-454D-AF60-6A89C3C3AAA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{6B777C62-4E4F-47C3-A6AF-FB348D3F8E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B777C62-4E4F-47C3-A6AF-FB348D3F8E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B777C62-4E4F-47C3-A6AF-FB348D3F8E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50877C30-60E0-43EC-AC37-CD405D4284CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50877C30-60E0-43EC-AC37-CD405D4284CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50877C30-60E0-43EC-AC37-CD405D4284CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50877C30-60E0-43EC-AC37-CD405D4284CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FC3490-C810-454D-AF60-6A89C3C3AAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FC3490-C810-454D-AF60-6A89C3C3AAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FC3490-C810-454D-AF60-6A89C3C3AAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FC3490-C810-454D-AF60-6A89C3C3AAA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

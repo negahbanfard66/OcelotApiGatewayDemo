@@ -34,3 +34,6 @@ D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotAp
 D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\obj\Debug\net8.0\TargetApiSample2.pdb
 D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\obj\Debug\net8.0\TargetApiSample2.genruntimeconfig.cache
 D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\obj\Debug\net8.0\ref\TargetApiSample2.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\bin\Debug\net8.0\TargetApiSample2.staticwebassets.endpoints.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample2\TargetApiSample2\obj\Debug\net8.0\staticwebassets\msbuild.TargetApiSample2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

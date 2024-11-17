@@ -95,3 +95,6 @@ D:\Pro\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\ref
 D:\Pro\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\TargetApiSample.pdb
 D:\Pro\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\TargetApiSample.genruntimeconfig.cache
 D:\Pro\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\ref\TargetApiSample.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\bin\Debug\net8.0\TargetApiSample.staticwebassets.endpoints.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\OcelotApiGateway\Project\OcelotApiGatewayDemo\TargetApiSample\TargetApiSample\obj\Debug\net8.0\staticwebassets\msbuild.TargetApiSample.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
